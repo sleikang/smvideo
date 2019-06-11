@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/language">
+        <file>qt_zh_CN.qm</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>logo.ico</file>
+        <file>pause.png</file>
+        <file>play.png</file>
+        <file>volumeClose.png</file>
+        <file>volumeOpen.png</file>
+        <file>about.png</file>
+        <file>file.png</file>
+        <file>openFile.png</file>
+        <file>search.png</file>
+        <file>down.png</file>
+        <file>addition.png</file>
+        <file>decrease.png</file>
+        <file>time.png</file>
+        <file>background.png</file>
+        <file>fileList.png</file>
+        <file>video.png</file>
+        <file>not.png</file>
+        <file>list.png</file>
+        <file>delete.png</file>
+    </qresource>
+</RCC>
